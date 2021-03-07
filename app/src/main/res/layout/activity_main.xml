@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:collapseColumns="1,2,3"
     tools:context=".MainActivity">
 
     <TableRow>
@@ -231,6 +232,15 @@
             android:layout_marginRight="1dp" />
 
     </TableRow>
+
+    <Button
+        android:id="@+id/btndetail"
+        android:layout_width="50dp"
+        android:layout_height="100dp"
+        android:text="@string/tShowDetail"
+        android:textAllCaps="false"
+        android:layout_gravity="center"
+        android:onClick="Table"/>
 
 
 

@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Table_Layout</string>
+    <string name="tnama">Nama</string>
+    <string name="talamat">Alamat</string>
+    <string name="tnohp">NOHP</string>
+    <string name="tnim">NIM</string>
+    <string name="tPascal">Pascal</string>
+    <string name="tSeptian">Septian</string>
+    <string name="tdedi">Dedi</string>
+    <string name="tfahmi">Fahmi</string>
+    <string name="tKlaten">Klaten</string>
+    <string name="tPalembang">Palembang</string>
+    <string name="tRiau">Riau</string>
+    <string name="tSumedang">Sumedang</string>
+    <string name="t081227448615">081227448615</string>
+    <string name="t087894969951">08789496951</string>
+    <string name="t085837829998">085837829998</string>
+    <string name="t082777992829">082777992829</string>
+    <string name="t20190140105">20190140105</string>
+    <string name="t20190140046">20190140046</string>
+    <string name="t20140140008">20140140008</string>
+    <string name="t20170140008">20170140008</string>
+    <string name="tShowDetail">Show Detail</string>
+
+    
 </resources>
